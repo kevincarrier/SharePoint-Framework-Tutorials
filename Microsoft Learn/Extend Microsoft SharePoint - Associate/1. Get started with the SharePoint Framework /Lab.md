@@ -2,6 +2,7 @@
 
 In this lab you work with the SharePoint Framework as an end user and then get your local & online environment configured for developing with the SharePoint Framework.
 
+
 ## In this lab
 
 - [Create & Configure your SharePoint Online Developer Tenant](#exercise1)
